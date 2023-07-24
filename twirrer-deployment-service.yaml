@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: scorconreg7474.azurecr.io/arya9163/aks_acr_cicd_task:28
+        image: scorconreg7474.azurecr.io/arya9163/aks_acr_cicd_task:latest
         ports:
         - containerPort: 80
 ---
