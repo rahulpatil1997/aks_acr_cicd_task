@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: arya6296/twirrer:v3
+        image: scorconreg7474.azurecr.io/arya9163/aks_acr_cicd_task:28
         ports:
         - containerPort: 80
 ---
